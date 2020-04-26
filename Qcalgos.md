@@ -1,1 +1,4 @@
+---
+permalink: /Qcalgos.html
+---
 hello
