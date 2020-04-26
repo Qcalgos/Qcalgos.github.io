@@ -1,4 +1,4 @@
-## Welcome to  my  GitHub Pages
+## Welcome to  My  GitHub Pages
 These blogs record something about quantum computing,operating system,and algorithms.
 
 ### quantum computing
