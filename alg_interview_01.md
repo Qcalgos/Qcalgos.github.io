@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ##### 问题描述
 ##### 解答和代码
 
-```markdown
+```c
 Syntax highlighted code block
 
 # Header 1
