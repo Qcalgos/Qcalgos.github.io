@@ -7,9 +7,9 @@ these files (which named alg_interview_<number>) include some algorithms-intervi
 ### 动态规划
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-####1，如何实现LRU算法
-#####问题描述
-#####解答和代码
+#### 1，如何实现LRU算法
+##### 问题描述
+##### 解答和代码
 
 ```markdown
 Syntax highlighted code block
